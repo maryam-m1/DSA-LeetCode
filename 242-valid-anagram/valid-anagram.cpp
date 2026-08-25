@@ -19,7 +19,7 @@ public:
                 m2[t[i]] = 1;
             }
         }
-      // return true or false
+      // return true or false >
         return m1 == m2;
     }
 };
